@@ -2,6 +2,8 @@
 ## View Site
 https://haroldsumbrana.github.io/Menu
 
+## This Project is still in progress but you can check how does it look like.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
 
 ## Development server
